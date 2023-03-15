@@ -1,10 +1,10 @@
 [
   {
-    "package": "CDatanet",
+    "package": "vMF",
     "oncran": true
   },
   {
-    "package": "vMF",
+    "package": "CDatanet",
     "oncran": true
   }
 ]
