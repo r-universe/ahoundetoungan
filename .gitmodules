@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "CDatanet"]
 	path = CDatanet
 	url = https://github.com/ahoundetoungan/cdatanet
-	shallow = true
-	registered = true
 [submodule "vMF"]
 	path = vMF
 	url = https://github.com/ahoundetoungan/vmf
-	shallow = true
-	registered = true
