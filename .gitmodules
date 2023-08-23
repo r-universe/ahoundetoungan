@@ -5,6 +5,9 @@
 [submodule "CDatanet"]
 	path = CDatanet
 	url = https://github.com/ahoundetoungan/cdatanet
+[submodule "PartialNetwork"]
+	path = PartialNetwork
+	url = https://github.com/ahoundetoungan/partialnetwork
 [submodule "vMF"]
 	path = vMF
 	url = https://github.com/ahoundetoungan/vmf
