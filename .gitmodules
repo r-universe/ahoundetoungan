@@ -8,6 +8,9 @@
 [submodule "PartialNetwork"]
 	path = PartialNetwork
 	url = https://github.com/ahoundetoungan/partialnetwork
+[submodule "QuantilePeer"]
+	path = QuantilePeer
+	url = https://github.com/ahoundetoungan/quantilepeer
 [submodule "vMF"]
 	path = vMF
 	url = https://github.com/ahoundetoungan/vmf
